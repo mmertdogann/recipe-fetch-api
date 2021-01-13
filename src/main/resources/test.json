@@ -1,0 +1,68 @@
+{
+  "title": "Fettuccine Alfredo",
+  "yield": "4",
+  "categories": [
+    "Pasta"
+  ],
+  "ingredients": [
+    {
+      "item": "Fettuccine Pasta",
+      "amount": {
+        "quantity": "1",
+        "unit": "lb"
+      }
+    },
+    {
+      "item": " Butter",
+      "amount": {
+        "quantity": "6",
+        "unit": "tablespoon"
+      }
+    },
+    {
+      "item": "Garlic Clove (minced)",
+      "amount": {
+        "quantity": "6",
+        "unit": ""
+      }
+    },
+    {
+      "item": "Heavy Cream",
+      "amount": {
+        "quantity": "1 1/2",
+        "unit": "cups"
+      }
+    },
+    {
+      "item": "Salt",
+      "amount": {
+        "quantity": "1/4",
+        "unit": "teaspoon"
+      }
+    },
+    {
+      "item": "Shredded Parmesan Cheese",
+      "amount": {
+        "quantity": "1 1/4",
+        "unit": "cup"
+      }
+    },
+    {
+      "item": "Pepper",
+      "amount": {
+        "quantity": "1/4",
+        "unit": "teaspoon"
+      }
+    },
+    {
+      "item": "Italian Parsley",
+      "amount": {
+        "quantity": "2",
+        "unit": "tablespoon"
+      }
+    }
+  ],
+  "directions": {
+    "step": "\n Start by bringing water to a boil in a large pot. Add salt to the water to season the pasta. Once it is boiling, add pasta and cook according to package instructions.\n  Saute the garlic and butter together until softened — about 1 to 2 minutes.\n  Add heavy cream and let simmer over medium-high heat for about 5 minutes to thicken. Add salt and pepper to taste. Add half of the parmesan cheese to the mixture and whisk well until smooth.\n  Save some pasta water. The pasta water is full of flavor and can be used to thin out the sauce.\n Toss alfredo sauce with fettuccine pasta and add half of the parmesan cheese. Once it is tossed, garnish with the remaining parmesan cheese. Add a little pasta water if it needs to be thinned out. \n  Garnish with Italian parsley, if so desired.\n"
+  }
+}
