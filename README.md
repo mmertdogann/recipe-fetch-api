@@ -22,7 +22,7 @@ The project has been created using these technologies:
 * **Java 8** as programming language 
 * **Spring Boot v2.4.1** as web framework
 * **Maven v3.6.3** as build automation tool
-* **JUnit && Mockito** as unit testing libraries
+* **JUnit & Mockito** as unit testing libraries
 
 ## Setup
 
