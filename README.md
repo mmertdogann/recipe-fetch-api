@@ -1,4 +1,4 @@
-# Mendix Recipe Fetch API
+# Recipe Fetch API
 
 Recipe Fetch API for listing recipes
 
@@ -9,7 +9,6 @@ This project is the backend part of a website about showing recipes to the user.
 * Story 1 - Fetch all recipes or filtered by name or category from the backend system
 * Story 2 - Fetch all categories from the backend system
 * Story 3 - Fetch recipes from the specified category
-* Story 4 & 5 - Front end part (Mendix Studio Pro) which is a web site for recipes listing and available recipes.
 
  ![Recipe Fetch API](https://i.ibb.co/h8FXKRb/Screen-Shot-2021-01-13-at-17-27-24.png)
 
